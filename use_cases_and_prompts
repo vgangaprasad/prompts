@@ -1,0 +1,36 @@
+Email and communication refinement	
+“Rewrite this for [audience] in a [tone] voice. Keep it concise, preserve intent, and call out anything unclear.”
+
+Meeting summaries and action extraction
+“Summarize this into key themes, decisions, open questions, and action items by owner. Highlight time-sensitive items.”
+
+Meeting prep and facilitation
+“Create a [duration] agenda for [meeting purpose] with objectives, timeboxes, decisions needed, discussion prompts, and follow-up actions.”
+
+Brainstorming and thought partnership
+“Act as a thought partner. Give me 5 practical options for [goal], with pros, cons, risks, and what I may be missing.”
+
+Documentation and procedures
+“Turn these notes into a clear procedure with purpose, inputs, steps, roles, controls, exceptions, and a final checklist.”
+
+Requirements and Jira story creation
+“Create a user story using persona, action, benefit, acceptance criteria in Given/When/Then format, and implementation guidance.”
+
+Engineering productivity
+“Review this code for clarity, maintainability, performance, test gaps, and risks. Recommend changes and include validation steps.”
+
+Data, Excel, Power BI, and reporting
+“Here are my columns and desired output. Give me the formula or steps, explain how it works, and include validation checks.”
+
+Status reporting and executive updates
+“Create an executive-ready update with completed work, next steps, risks, decisions needed, owners, dates, and leadership takeaway.”
+
+Learning and quick explanations
+“Explain [term/concept] for a beginner, then give an example, common mistake, and how it applies to my work.”
+
+Workflow automation and prioritization
+“Each time I provide an update, reassess risks, next steps, owners, due dates, and recommended actions. Flag anything overdue.”
+
+Training, creative content, and visuals
+“Create a learning activity for [audience] on [topic] with objective, steps, materials, discussion prompts, and measurement approach.”
+
