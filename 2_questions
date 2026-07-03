@@ -1,0 +1,22 @@
+One is from Sam Altman, the other Claude suggested and it works extremely well.
+
+The first question I ask:
+
+What are you least confident about right now.
+
+The AI will list like 6 to 7 things that it didn’t properly investigate. I would say one out of four times one of the items is a huge deal and you’re shocked that the AI even took action without understanding this first, then just have the AI investigate thoroughly exhaustively finding the root cause of each issue or just understanding each point.
+
+The second question I ask (Sam Altmans): what’s the biggest thing I’m missing about the situation right now. What don’t I realize?
+
+
+other variations
+
+
+•	⁠"If this breaks in 3 months, what's the most likely reason?" (To find future fragility)
+•	⁠"If you could add one unrequested, industry-leading feature, what would it be?" (For creative brainstorming)
+•	⁠"What could I have done differently to make this session more efficient?" (To improve your own prompting)
+
+A few power-users offered some next-level advice:
+
+•	⁠For a truly unbiased critique, copy the final output and paste it into a fresh chat. The new instance has no ego and will shred its own (previous) work.
+•	⁠When Claude lists its uncertainties, don't just ask it to "investigate." Ask for a specific test or command to verify each point. This separates real gaps from confident-sounding 
