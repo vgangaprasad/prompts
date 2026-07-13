@@ -20,3 +20,18 @@ Cover:
 (7) When are you at your best - under deadline, with quiet focus, in the morning, when someone hands you a clear scope? And when you're stuck, what helps most - Copilot narrowing options, suggesting next steps, asking clarifying questions, or just giving you structure to start?
 
  B2 adapt examples to my industry. Then write a 300-400 word profile in second person, plain prose, paste-ready. Start B1.
+
+
+What do you know about me from my Custom Instructions?  Summarize in 3-4 bullet points
+
+What do you remember about me from your Memory?  List each item as a bullet.
+
+Run my Monday block scheduling workflow: 
+	- Pull my Outlook calendar for this week and for the month 
+	- Check flagged and unread emails 
+	- Check any tasks and messages 
+	- Summarize meetings, deadlines, and priorities based on this week and what I need to be doing for dates and deadlines in the next 30 days. 
+	- Suggest a block schedule for 8 AM–5 PM with focus blocks.
+	- Include actionable steps for email triage and task updates.
+Review and summarize the past 7 days of emails and provide a list of action items.
+Analyze my daily work schedule and suggest ways to optimize my time for maximum productivity. Consider my working hours, key responsibilities, and common distractions. Identify time-wasting activities, recommend strategies for deep work, and suggest ways to incorporate breaks for better focus. Also, provide automation ideas or tools that can streamline my workflow. If possible, structure the recommendations in a schedule format
