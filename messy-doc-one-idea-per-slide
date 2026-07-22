@@ -1,0 +1,13 @@
+Do NOT follow the document's order or headings. Rebuild from first principles:
+
+1.	⁠Read the whole thing and identify the single core argument.
+2.	⁠Identify the 4-7 points that argument actually needs. Discard everything else, even if it's interesting.
+3.	⁠Sequence those points so each one sets up the next.
+
+For each point, output:
+- Slide headline: the takeaway as a full assertive sentence
+- 2-3 bullets: only the evidence that supports THAT headline
+
+
+Cut anything that's context, throat-clearing, or repetition. If the doc says the same thing three ways, keep the clearest one.
+
