@@ -1,0 +1,95 @@
+Mental Brain Dump and Priority Extraction
+This is the first step of your morning routine, designed for professionals who wake up with scattered to-dos, loose notes, and competing deadlines. It helps you externalize mental clutter into an organized structure and identify the single high-impact task that justifies the day.
+
+Act as an executive productivity strategist. 
+
+The professional using this prompt has just started their workday and is dealing with cognitive overload from scattered thoughts, unresolved tasks from yesterday, and incoming demands. 
+
+Review the unstructured list of thoughts, pending items, and tasks provided below. Analyze the entries to categorize them into three clear buckets: Immediate Strategic Impact, Necessary Maintenance Tasks, and Delegate/Defer. After sorting, identify exactly one primary focus objective—the single most impactful deliverable that defines success for today.
+
+Do not accept vague descriptions; sharpen ambiguous tasks into concrete, action-oriented action items. Keep your analysis realistic for an eight-hour working day and exclude any filler commentary.
+
+Provide your response with the following structure:
+1. The Primary Focus Objective (one sentence defining the core deliverable and why it takes priority).
+2. Action Item Breakdown:
+   - High Impact (maximum 3 tasks)
+   - Operational/Maintenance (maximum 4 tasks)
+   - Defer or Drop (items that should not be touched today)
+
+User Input: Insert your raw, unstructured list of tasks, loose thoughts, and pending obligations below.
+Expected Outcome: You will receive a clean, prioritized categorization of your raw thoughts, separating critical deep work from minor administrative chores. It also pinpoints your single most important goal for the day so you know exactly where to direct your peak energy.
+
+User Input Examples to Try and Refer
+Review the draft budget proposal, answer Sarah’s email about the product launch timeline, buy coffee filters, fix the broken login redirect link on staging, read the industry newsletter, prepare slides for the 2 PM client review.
+Follow up with three cold prospects from Tuesday, finish writing the quarterly performance summary, organize the team drive folders, check analytics on yesterday’s newsletter, approve vacation requests.
+Submit API integration documentation, text Marcus back regarding project handoff, draft talking points for tomorrow’s standup, debug user reported payment failure, update task board tickets.
+Time-Blocked Daily Schedule Architecture
+This second step takes the sorted priorities from your initial brain dump and translates them into an actionable, realistic calendar structure. It eliminates decision fatigue during the day by mapping tasks directly against your natural energy peaks and mandatory meetings.
+
+Act as a time-management and operational workflow designer.
+
+You are assisting a knowledge worker in turning their daily task priorities and existing calendar constraints into a realistic, time-blocked work schedule.
+
+Using the primary objective, prioritized task list, and fixed commitments provided, build an hour-by-hour schedule covering an 8-hour workday. Position the high-impact deliverable during the user's reported peak focus window. Integrate brief buffer periods between intense focus sessions to prevent context-switching fatigue. Ensure that administrative tasks are grouped into a dedicated low-energy block rather than scattered throughout the day.
+
+Do not schedule back-to-back deep focus sessions exceeding 90 minutes without at least a 10-minute transition buffer. Do not leave large, unassigned gaps of open time that invite distraction.
+
+Format the schedule as a structured chronological table with three columns: Time Window, Focus Block / Activity, and Energy State (e.g., Deep Focus, Shallow Work, Active Collaboration, Recovery).
+
+User Input: Insert your fixed calendar commitments (meetings, appointments), your preferred peak focus hours, and your approved task list for the day below.
+Expected Outcome: A structured, time-blocked schedule tailored to your personal biological prime time and fixed meetings. It prevents overcommitting and gives each task a concrete start and stop time with realistic buffers.
+
+User Input Examples to Try and Refer
+Meetings: 10:00 AM Standup (30m), 2:00 PM Client Review (45m). Peak focus window: 8:30 AM to 11:30 AM. Primary objective: Finalize the budget proposal. Secondary: Fix staging link and draft 2 PM slides.
+Meetings: 1:00 PM Team Sync (1h). Peak focus window: 1:30 PM to 4:00 PM (afternoon worker). Primary objective: Write the quarterly performance summary. Secondary: Client follow-ups and ticket approvals.
+Meetings: 9:00 AM Client Check-in (15m), 11:30 AM Executive Update (30m), 4:00 PM One-on-One (30m). Peak focus window: 7:30 AM to 9:30 AM. Primary objective: Submit API integration documentation. Secondary: Debug payment failure.
+Pre-Computation of Friction and Obstacles
+Falling behind schedule usually happens because unforeseen friction interrupts deep work blocks. This third workflow step prompts you to identify likely points of resistance—such as missing information, technical dependencies, or common distractions—and decide how to handle them before starting.
+
+Act as a workplace performance coach specializing in behavioral psychology and implementation intentions.
+
+A professional has set their daily plan, but needs to pre-empt interruptions, friction points, and self-distraction triggers before they occur.
+
+Examine the planned deep-work deliverables and schedule provided. Identify three likely friction points that could delay execution (e.g., waiting on external approvals, ambiguity in requirements, temptation to check email during challenging cognitive work). For each identified friction point, develop a clear "If-Then" implementation rule that outlines the exact behavior to take the moment the obstacle arises.
+
+Keep rules actionable, direct, and focused strictly on the workday execution. Avoid generic productivity advice; tailor the rules specifically to the user's tasks and known liabilities.
+
+Output the analysis under two clear sections:
+1. Primary Friction Audit (a brief assessment of where the schedule is most vulnerable to derailment).
+2. Implementation Rules (exactly three bullet points structured strictly as: "If [obstacle occurs], then I will [specific immediate action].")
+
+User Input: Insert your scheduled primary objective, key secondary tasks, and any known external dependencies or personal distraction habits below.
+Expected Outcome: A brief risk assessment of your planned day paired with three clear implementation intentions. This creates a proactive defense against interruptions so you stay anchored to your core tasks.
+
+User Input Examples to Try and Refer
+Primary objective: Finalize budget proposal. Dependencies: Waiting on revised marketing numbers from Dave. Distraction tendency: Opening Slack every time a formula breaks in the spreadsheet.
+Primary objective: Write quarterly performance summary. Dependencies: None, full autonomy. Distraction tendency: Procrastinating on difficult writing by answering easy support tickets and checking inbox.
+Primary objective: Debug payment gateway failure. Dependencies: Need sandbox credentials from the DevOps lead. Distraction tendency: Browsing developer forums and getting lost in non-essential code optimizations.
+Proactive Communication and Boundary Setting
+The final step in preparing your workday is managing incoming demands before they disrupt your focused time blocks. This prompt drafts concise, professional boundary-setting messages to keep stakeholders informed of your availability without creating friction.
+
+Act as an executive communications specialist.
+
+The user needs to set expectations with their team, manager, or clients regarding their availability for the day, protecting their scheduled deep work blocks while remaining collaborative and reliable.
+
+Using the user's deep focus hours, current deliverables, and meeting commitments, compose two brief communication assets:
+1. A concise asynchronous status update suitable for Slack, Microsoft Teams, or an internal board, detailing current focus and response availability.
+2. A polite, direct holding response to use if a colleague or client requests an ad-hoc meeting or immediate turnaround during a protected focus block.
+
+Keep the language professional, helpful, and firm. Avoid over-apologizing for being unavailable to do deep work. The communication must convey capability, focus, and transparency.
+
+Output the two drafts clearly separated, ready to copy and send with clear bracketed indicators for any contextual detail the user needs to tweak.
+
+User Input: Insert your scheduled deep work hours, your primary objective, and the times when you will be actively checking and responding to messages below.
+Expected Outcome: Two ready-to-use communication templates that set clear boundaries around your deep focus periods. This ensures your teammates know when you are heads-down and when they can expect a response, preventing disruptive ad-hoc interruptions.
+
+User Input Examples to Try and Refer
+Deep work block: 9:00 AM – 11:30 AM (working on budget proposal). Checking messages at: 11:30 AM and 3:30 PM. Communication channel: Slack.
+Deep work block: 1:30 PM – 4:00 PM (writing performance reviews). Available for urgent issues via phone call, otherwise checking Teams messages after 4:00 PM.
+Deep work block: 8:00 AM – 10:30 AM (API documentation). Checking messages between 11:00 AM and 11:30 AM before the team standup.
+Step-by-Step How-To-Use Guide
+Set aside fifteen quiet minutes before opening communication channels: Run these prompts in sequence before opening your email inbox or team chat to maintain control over your agenda.
+Execute Step 1 with a total mental dump: Paste every lingering thought, commitment, and rough idea into the first prompt. Accept the single primary objective it selects, or adjust it if your priorities require a different focus.
+Feed Step 1 results directly into Step 2: Take the prioritized tasks from the first prompt, combine them with your existing calendar meetings, and run the second prompt to generate your time-blocked schedule.
+Stress-test your plan with Step 3: Input your schedule and known habits into the third prompt to establish clear implementation intentions for when inevitable interruptions or resistance occur.
+Publish your boundaries with Step 4: Use the generated messages from the final prompt to update your team status or adjust your auto-responder before entering your first deep focus window.
